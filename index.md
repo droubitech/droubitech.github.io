@@ -17,3 +17,7 @@
 ### Para uso na área de Planejamento de Obras:
 
 ### Para uso na área de financeira:
+
+## Localização
+
+<script src="https://embed.github.com/view/geojson/droubitech/droubitech.github.io/master/Localizacao.geojson"></script>
